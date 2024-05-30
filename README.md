@@ -1,5 +1,3 @@
-# Onslow College Digital Technologies
-
 ## .NET Template
 
 Use this template to develop a program in .NET 8.
