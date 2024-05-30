@@ -2,13 +2,15 @@
 
 ## .NET Template
 
-Use this template to develop a text-based program in .NET 8.
+Use this template to develop a program in .NET 8.
 
 This template includes:
 
 - Default code file (`Program.cs`)
 - Extensions to support C# development
 - Integration for diagrams.net (for files ending in `.drawio`)
+
+**Note**: when run as a Codespace, .NET runs on Linux. You will not have access to Windows-specific technologies such as Windows Forms or WPF. However, you can use any .NET package that supports Linux by adding it as a project dependency.
 
 ## How to run your code
 
